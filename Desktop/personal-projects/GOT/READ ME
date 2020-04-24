@@ -1,0 +1,10 @@
+READ ME
+
+In this project I used Game of Thrones data i found from data.world to look
+at the deaths over 8 seasons of Game of Thrones. I did this  by aggregating the number of kills.
+
+I found the Deadliest Houses, Allegiances, and Locations. Then created an interactive dashboard
+to guide you through Westeros as you make your own risk based decisions.
+
+The goal for this project was to see what Tableau is capable of from a formatting
+and design aspect and using multiple filters.
